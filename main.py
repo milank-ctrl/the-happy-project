@@ -14,7 +14,7 @@ def main():
     f = Filters(
         country= "us",
         timespan="24h",
-        num_records=11
+        num_records=50
         )
 
     message = f"""
