@@ -1,0 +1,7 @@
+.env
+happy_log.log
+play.py
+.idea
+__pycache__/
+*.pyc
+*.pyo

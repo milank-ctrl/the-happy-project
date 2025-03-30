@@ -1,0 +1,2 @@
+from data_base_manager.mongo_manager import MongoManger
+from data_base_manager.news_storage import NewsStorage

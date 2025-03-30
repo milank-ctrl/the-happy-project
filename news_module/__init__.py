@@ -1,0 +1,1 @@
+from news_module.newspaper_manager import NewsPaperProcessor
